@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Baz</h1>
-<h3 align="center">London, UK</h3>
+<!-- <h3 align="center">London, UK</h3> -->
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
