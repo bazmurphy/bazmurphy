@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙏 I'm Baz</h1>
+<h1 align="center">Hi 🙏 I'm Baz 😎</h1>
 <!-- <h3 align="center">London, UK</h3> -->
 
 <!-- 
