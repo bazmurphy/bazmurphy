@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙏 I'm Baz 😎</h1>
 <!-- <h3 align="center">London, UK</h3> -->
 
-<p>A CodeWars a day, keeps the doctor away...</p>
+<p align="center">A CodeWars a day, keeps the doctor away...😬</p>
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
