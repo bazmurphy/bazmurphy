@@ -1,7 +1,5 @@
 <h1 align="center">Hi 🙏 I'm Baz 😎</h1>
 
-Testing:
-
 ![](https://komarev.com/ghpvc/?username=bazmurphy&label=views)
 
 <!-- <h3 align="center">London, UK</h3> -->
