@@ -1,6 +1,9 @@
 <h1 align="center">Hi 🙏 I'm Baz 😎</h1>
+
 Testing:
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 <!-- <h3 align="center">London, UK</h3> -->
 
 <!--
