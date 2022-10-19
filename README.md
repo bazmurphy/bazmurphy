@@ -1,5 +1,7 @@
 <h1 align="center">Hi 🙏 I'm Baz 😎</h1>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=bazmurphy&label=views)
 
 <!-- <h3 align="center">London, UK</h3> -->
