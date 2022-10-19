@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=bazmurphy&label=views)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark)]
+
 <!-- <h3 align="center">London, UK</h3> -->
 
 <!--
