@@ -1,4 +1,5 @@
 <h1 align="center">Hi 🙏 I'm Baz 😎</h1>
+<img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark)
 ![](http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D)
