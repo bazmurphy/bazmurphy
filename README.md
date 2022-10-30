@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙏 I'm Baz 😎</h1>
+<h1>Hi 🙏 I'm Baz 😎</h1>
 <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark)
