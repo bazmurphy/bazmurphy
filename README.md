@@ -7,7 +7,7 @@
 
 - [Fullstack MERN Expenses Tracker](https://bazmurphy-expense-tracker.cyclic.app/)
 
-- [FullStack PERN Business Management API](https://cyf-bazmurphy-sql.onrender.com)
+- [FullStack PERN Business Management](https://cyf-bazmurphy-sql.onrender.com)
 
 - [CodeWars Collections Completion Tracker](https://cyf-bazmurphy-codewars.netlify.app)
 
