@@ -1,6 +1,18 @@
 <h2>Hi 🙏 I'm Baz 😎</h2>
 <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200"/>
 
+## Example Work:
+
+- [FullStack MERN Workout Planner](https://fullstack-workout.netlify.app/)
+
+- [Fullstack MERN Expenses Tracker](https://bazmurphy-expense-tracker.cyclic.app/)
+
+- [FullStack PERN Business Management API](https://cyf-bazmurphy-sql.onrender.com)
+
+- [CodeWars Tracking Site](https://cyf-bazmurphy-codewars.netlify.app)
+
+- [Projects Site](https://cyf-bazmurphy-projects.netlify.app/)
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark) -->
 <!-- ![](http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D) -->
 <!-- ![](https://komarev.com/ghpvc/?username=bazmurphy&label=views) -->
