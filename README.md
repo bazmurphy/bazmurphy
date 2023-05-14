@@ -9,7 +9,7 @@
 
 - [FullStack PERN Business Management API](https://cyf-bazmurphy-sql.onrender.com)
 
-- [CodeWars Tracking Site](https://cyf-bazmurphy-codewars.netlify.app)
+- [CodeWars Collections Completion Tracker](https://cyf-bazmurphy-codewars.netlify.app)
 
 - [Projects Site](https://cyf-bazmurphy-projects.netlify.app/)
 
