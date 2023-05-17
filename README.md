@@ -11,7 +11,7 @@
 
 - [CodeWars Collections Completion Tracker](https://cyf-bazmurphy-codewars.netlify.app)
 
-- [Projects Site](https://cyf-bazmurphy-projects.netlify.app/)
+- [CYF Projects Portfolio](https://cyf-bazmurphy-projects.netlify.app/)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark) -->
 <!-- ![](http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D) -->
