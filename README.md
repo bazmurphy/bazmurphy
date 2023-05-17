@@ -5,7 +5,7 @@
 
 - [FullStack MERN Workout Planner](https://fullstack-workout.netlify.app/)
 
-- [FullStack PERN Business Management](https://cyf-bazmurphy-sql.onrender.com)
+- [FullStack PERN Ecommerce Management](https://cyf-bazmurphy-sql.onrender.com)
 
 - [Fullstack MERN Expenses Tracker](https://bazmurphy-expense-tracker.cyclic.app/)
 
