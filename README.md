@@ -22,6 +22,7 @@
       <h2>Example Work:</h2>
       <ul>
         <li><a href="https://fullstack-workout.netlify.app/">FullStack MERN Workout Planner</a></li>
+        <li><a href="https://fullstack-workout.netlify.app/">FullStack PERN Video Recommendations</a></li>
         <li><a href="https://cyf-bazmurphy-sql.onrender.com">FullStack PERN Ecommerce Management</a></li>
 <!--         <li><a href="https://bazmurphy-expense-tracker.cyclic.app/">Fullstack MERN Expenses Tracker</a></li> -->
         <li><a href="https://cyf-bazmurphy-codewars.netlify.app">CodeWars Collections Completion Tracker</a></li>
