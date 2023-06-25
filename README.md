@@ -6,7 +6,7 @@
       <h3>a FullStack Developer</h3>
     </td> -->
     <td>
-      <div style="display:flex;gap:20px;">
+      <div style="display:grid;grid-template-columns:1fr1fr1fr;gap:20px;">
         <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" height="32px" /><span>HTML</span></div>
         <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" height="32px" /><span>CSS</span></div>
         <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" height="32px" /><span>JavaScript</span></div>
