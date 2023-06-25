@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td>
+<!--     <td>
       <h2>Hi 🙏 I'm Baz 😎</h2>
       <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200"/>
       <h3>a FullStack Developer</h3>
-    </td>
+    </td> -->
     <td>
       <div style="display:flex;gap:20px;">
         <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" height="32px" /><span>HTML</span></div>
