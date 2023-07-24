@@ -19,7 +19,6 @@
       </div>
     </td>
     <td>
-      <h2>Example Work:</h2>
       <ul>
         <li><a href="https://fullstack-workout.netlify.app/">FullStack MERN Workout Planner</a></li>
         <li><a href="https://bazmurphy-fullstack-videos.netlify.app/">FullStack PERN Video Recommendations</a></li>
