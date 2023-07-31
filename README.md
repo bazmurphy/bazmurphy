@@ -14,11 +14,11 @@
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" height="32px" /><span>HTML</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" height="32px" /><span>CSS</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" height="32px" /><span>JavaScript</span></span>
+ <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32px" height="32px" /><span>TypeScript</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="32px" height="32px" /><span>Node</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px" height="32px" /><span>React</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32px" height="32px" /><span>PostgreSQL</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32px" height="32px" /><span>MongoDB</span></span>
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32px" height="32px" /><span>TypeScript</span></span>
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32px" height="32px" /><span>Next</span></span>
 </div>
 
