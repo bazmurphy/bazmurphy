@@ -1,35 +1,35 @@
-# Baz Murphy
+## Baz Murphy
 
-## Full Stack Web Developer
+### Full Stack Web Developer
 
-### Projects
+#### Skills
+
+<div><img src="images/html.svg" width="32"><span><span> HTML</div>
+<div><img src="images/css.svg" width="32"><span><span> CSS</div>
+<div><img src="images/javascript.svg" width="32"><span> JavaScript<span></div>
+<div><img src="images/typescript.svg" width="32"><span> TypeScript<span></div>
+<div><img src="images/react.svg" width="32"><span> React<span></div>
+<div><img src="images/nextjs.svg" width="32"><span> NextJS<span></div>
+<div><img src="images/nodejs.svg" width="32"><span> NodeJS<span></div>
+<div><img src="images/postgresql.svg" width="32"><span> PostgreSQL<span></div>
+<div><img src="images/mongodb.svg" width="32"><span> MongoDB<span></div>
+<div><img src="images/graphql.svg" width="32"><span> GraphQL<span></div>
+<div><img src="images/jest.svg" width="32"><span> Jest<span></div>
+<div><img src="images/cypress.svg" width="32"><span> Cypress<span></div>
+<div><img src="images/aws.svg" width="32"><span> AWS<span></div>
+<div><img src="images/docker.svg" width="32"><span> Docker<span></div>
+<div><img src="images/terraform.svg" width="32"><span> Terraform<span></div>
+<div><img src="images/kubernetes.svg" width="32"><span> Kubernetes<span></div>
+
+#### Projects
 
 - [CYF Projects Portfolio](https://cyf-bazmurphy-projects.netlify.app/)
+- [CodeWars Collections Completion Tracker](https://cyf-bazmurphy-codewars.netlify.app)
 - [FullStack MERN Workout Planner](https://fullstack-workout.netlify.app/)
 - [FullStack PERN Video Recommendations](https://bazmurphy-fullstack-videos.netlify.app/)
 - [FullStack Social Media Clone](https://bazmurphy-t3-social-media.vercel.app/)
 - [FullStack PERN Ecommerce Management](https://cyf-bazmurphy-sql.onrender.com)
 - [Fullstack MERN Expenses Tracker](https://bazmurphy-expense-tracker.cyclic.app/)
-- [CodeWars Collections Completion Tracker](https://cyf-bazmurphy-codewars.netlify.app)
-
-### Skills
-
-- ![HTML](html5.png) HTML
-- ![CSS](css3.png) CSS
-- ![JavaScript](javascript.png) JavaScript
-- ![TypeScript](typescript.png) TypeScript
-- ![React](react.png) React
-- ![NextJS](nextjs.png) NextJS
-- ![Node](node.png) Node
-- ![PostgreSQL](postgresql.png) PostgreSQL
-- ![MongoDB](mongodb.png) MongoDB
-- ![GraphQL](graphql.png) GraphQL
-- ![Jest](jest.png) Jest
-- ![Cypress](cypress.png) Cypress
-- ![AWS](aws.png) AWS
-- ![Docker](docker.png) Docker
-- ![Terraform](terraform.png) Terraform
-- ![Kubernetes](kubernetes.png) Kubernetes
 
 ### Statistics
 
