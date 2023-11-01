@@ -1,24 +1,24 @@
 <h1>Baz Murphy</h1>
-
 <h2>Full Stack Web Developer</h2>
 
 <h3>Skills</h3>
 <table>
   <tr>
-    <!-- <td>Foundation</td> -->
+    <td><b>Foundation</b></td>
     <td><img src="images/html.svg" width="32"><br/><span>HTML<span></td>
     <td><img src="images/css.svg" width="32"><br/><span>CSS<span></td>
     <td><img src="images/javascript.svg" width="32"><br/><span>JavaScript<span></td>
     <td><img src="images/typescript.svg" width="32"><br/><span>TypeScript<span></td>
   </tr>
-    <!-- <td>Testing</td> -->
+  <tr>
+    <td><b>Testing</b></td>
     <td><img src="images/jest.svg" width="32"><br/><span>Jest<span></td>
     <td><img src="images/cypress.svg" width="32"><br/><span>Cypress<span></td>
     <td><img src="images/vitest.svg" width="32"><br/><span>Vitest<span></td>
     <td><img src="images/testing-library.svg" width="32"><br/><span>RTL<span></td>
   </tr>
   <tr>
-    <!-- <td>Frontend</td> -->
+    <td><b>Frontend</b></td>
     <td><img src="images/react.svg" width="32"><br/><span>React<span></td>
     <td><img src="images/vite.svg" width="32"><br/><span>Vite<span></td>
     <td><img src="images/nextjs.svg" width="32"><br/><span>NextJS<span></td>
@@ -27,14 +27,14 @@
     </td>
   </tr>
   <tr>
-    <!-- <td>Backend</td> -->
+    <td><b>Backend</b></td>
     <td><img src="images/nodejs.svg" width="32"><br/><span>NodeJS<span></td>
     <td><img src="images/postgresql.svg" width="32"><br/><span>PostgreSQL<span></td>
     <td><img src="images/mongodb.svg" width="32"><br/><span>MongoDB<span></td>
     <td><img src="images/graphql.svg" width="32"><br/><span>GraphQL<span></td>
   </tr>
   <tr>
-    <!-- <td>Cloud</td> -->
+    <td><b>Cloud</b></td>
     <td><img src="images/aws.svg" width="32"><br/><span>AWS<span></td>
     <td><img src="images/docker.svg" width="32"><br/><span>Docker<span></td>
     <td><img src="images/terraform.svg" width="32"><br/><span>Terraform<span></td>
