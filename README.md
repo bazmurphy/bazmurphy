@@ -1,7 +1,8 @@
-## Baz Murphy
+<h1>Baz Murphy</h1>
 
-### Full Stack Web Developer
+<h2>Full Stack Web Developer</h2>
 
+<h3>Skills</h3>
 <table>
   <tr>
     <!-- <td>Foundation</td> -->
@@ -41,19 +42,18 @@
   </tr>
 </table>
 
-#### Projects
+<h3>Projects</h3>
+<ul>
+  <li><a href="https://cyf-bazmurphy-projects.netlify.app/">CYF Projects Portfolio</a></li>
+  <li><a href="https://cyf-bazmurphy-codewars.netlify.app">CodeWars Collections Completion Tracker</a></li>
+  <li><a href="https://fullstack-workout.netlify.app/">FullStack MERN Workout Planner</a></li>
+  <li><a href="https://bazmurphy-fullstack-videos.netlify.app/">FullStack PERN Video Recommendations</a></li>
+  <li><a href="https://bazmurphy-t3-social-media.vercel.app/">FullStack Social Media Clone</a></li>
+  <li><a href="https://cyf-bazmurphy-sql.onrender.com">FullStack PERN Ecommerce Management</a></li>
+  <li><a href="https://bazmurphy-expense-tracker.cyclic.app/">Fullstack MERN Expenses Tracker</a></li>
+</ul>
 
-- [CYF Projects Portfolio](https://cyf-bazmurphy-projects.netlify.app/)
-- [CodeWars Collections Completion Tracker](https://cyf-bazmurphy-codewars.netlify.app)
-- [FullStack MERN Workout Planner](https://fullstack-workout.netlify.app/)
-- [FullStack PERN Video Recommendations](https://bazmurphy-fullstack-videos.netlify.app/)
-- [FullStack Social Media Clone](https://bazmurphy-t3-social-media.vercel.app/)
-- [FullStack PERN Ecommerce Management](https://cyf-bazmurphy-sql.onrender.com)
-- [Fullstack MERN Expenses Tracker](https://bazmurphy-expense-tracker.cyclic.app/)
-
-### Statistics
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark)
-![](http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D)
-
-![](https://komarev.com/ghpvc/?username=bazmurphy&label=views)
+<h3>Statistics</h3>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark"> -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D">
+<!-- <img src="https://komarev.com/ghpvc/?username=bazmurphy&label=views"> -->
