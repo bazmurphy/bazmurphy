@@ -44,6 +44,7 @@
 
 <h3>Projects</h3>
 <ul>
+  <li><a href="http://lhfb.s3-website.eu-west-2.amazonaws.com/">Fullstack Website for External Client with Cloud Infrastructure</a></li>
   <li><a href="https://cyf-bazmurphy-projects.netlify.app/">CYF Projects Portfolio</a></li>
   <li><a href="https://cyf-bazmurphy-codewars.netlify.app">CodeWars Collections Completion Tracker</a></li>
   <li><a href="https://fullstack-workout.netlify.app/">FullStack MERN Workout Planner</a></li>
