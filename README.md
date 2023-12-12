@@ -55,6 +55,9 @@
 </ul>
 
 <h3>Statistics</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bazmurphy&theme=github_dark) 
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark"> -->
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D">
+<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D"> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=bazmurphy&label=views"> -->
