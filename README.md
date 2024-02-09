@@ -1,6 +1,8 @@
+<hr>
 <h1>Baz Murphy</h1>
-<h2>Full Stack Web Developer</h2>
-
+<h2>Software Developer</h2>
+<h3><a href="https://bazmurphy.netlify.app" target="_blank">Visit My Portfolio</a></h3>
+<hr>
 <h3>Skills</h3>
 <table>
   <tr>
@@ -41,11 +43,11 @@
     <td><img src="images/kubernetes.svg" width="32"><br/><span>Kubernetes<span></td>
   </tr>
 </table>
-
+<hr>
 <h3>Projects</h3>
 <ul>
-  <li><a href="http://star-cyf.onrender.com">Fullstack Discussion Forum for Charity Community with upcoming Serverless Cloud Infrastructure</a></li>
   <li><a href="http://lhfb.s3-website.eu-west-2.amazonaws.com/">Fullstack Website for External Client with Traditional Cloud Infrastructure</a></li>
+  <li><a href="http://star-cyf.onrender.com">Fullstack Discussion Forum for Charity Community (with upcoming Serverless Cloud Infrastructure)</a></li>
   <li><a href="https://cyf-bazmurphy-projects.netlify.app/">CYF Projects Portfolio</a></li>
   <li><a href="https://cyf-bazmurphy-codewars.netlify.app">CodeWars Collections Completion Tracker</a></li>
   <li><a href="https://fullstack-workout.netlify.app/">FullStack MERN Workout Planner</a></li>
@@ -54,7 +56,7 @@
   <li><a href="https://cyf-bazmurphy-sql.onrender.com">FullStack PERN Ecommerce Management</a></li>
   <li><a href="https://bazmurphy-expense-tracker.cyclic.app/">Fullstack MERN Expenses Tracker</a></li>
 </ul>
-
+<hr>
 <h3>Statistics</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bazmurphy&theme=github_dark) 
