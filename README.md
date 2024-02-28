@@ -1,7 +1,7 @@
 <hr>
 <h1>Baz Murphy</h1>
 <h2>Software Developer</h2>
-<h3><a href="https://bazmurphy.netlify.app" target="_blank">Visit My Portfolio</a></h3>
+<h3><a href="https://bazmurphy.com" target="_blank">Visit My Portfolio</a></h3>
 <hr>
 <h3>Skills</h3>
 <table>
