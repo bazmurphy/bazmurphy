@@ -1,7 +1,8 @@
-<hr>
 <h1>Baz Murphy</h1>
 <h2>Software Developer</h2>
 <h3><a href="https://bazmurphy.com" target="_blank">Visit My Portfolio</a></h3>
+
+<!--
 <hr>
 <h3>Skills</h3>
 <table>
@@ -25,7 +26,6 @@
     <td><img src="images/vite.svg" width="32"><br/><span>Vite<span></td>
     <td><img src="images/nextjs.svg" width="32"><br/><span>NextJS<span></td>
     <td>
-      <!-- <img src="images/.svg" width="32"><br/><span><span> -->
     </td>
   </tr>
   <tr>
@@ -43,6 +43,9 @@
     <td><img src="images/kubernetes.svg" width="32"><br/><span>Kubernetes<span></td>
   </tr>
 </table>
+-->
+
+<!--
 <hr>
 <h3>Projects</h3>
 <ul>
@@ -56,11 +59,13 @@
   <li><a href="https://cyf-bazmurphy-sql.onrender.com">FullStack PERN Ecommerce Management</a></li>
   <li><a href="https://bazmurphy-expense-tracker.cyclic.app/">Fullstack MERN Expenses Tracker</a></li>
 </ul>
+--->
+
+<!--
 <hr>
 <h3>Statistics</h3>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bazmurphy&theme=github_dark) 
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark"> -->
-<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D"> -->
-<!-- <img src="https://komarev.com/ghpvc/?username=bazmurphy&label=views"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazmurphy&layout=compact&theme=vision-friendly-dark">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=bazmurphy&theme=github-dark-blue&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D">
+<img src="https://komarev.com/ghpvc/?username=bazmurphy&label=views">
+-->
