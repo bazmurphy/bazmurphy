@@ -1,1 +1,5 @@
-<img style="width:128px;" src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-sunglasses_1f60e.png" alt="smiling face with sunglasses"/>
+_If you’re not failing, you’re not learning._  
+_If you’re not learning, you’re not growing._  
+_If you’re not growing, you’re not living._  
+_Living without failing is failing to live._  
+_Improving your life is a matter of experiencing desirable failures._
